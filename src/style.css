@@ -30,6 +30,14 @@ body{
     padding: 20px;
 }
 
+.icon{
+    position: absolute;
+    width: 40px;
+    top: 14%;
+    right: 39%;
+    /* outline: 2px solid red; */
+}
+
 .text{
     padding: 15px;
 }
